@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "src/Controller",
+        "src/Test",
+        "src",
+        "src/Models"
+    ],
+    "java.project.referencedLibraries": []
+}
